@@ -21,4 +21,4 @@ To use this tool, you need to have Python installed on your machine. This tool i
 1. **Clone the Repository:**
    Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+ git clone https://github.com/Satayakokkirala/caesar-chiper-tool.git
